@@ -1,0 +1,2 @@
+shot_id,model_asset,garment_1,garment_2,garment_3,garment_4,garment_5,intended_use,aspect_ratio,prompt_notes,status
+example-001,model-front-01.jpg,top-blue-01.jpg,trousers-cream-01.jpg,shoes-white-01.jpg,bag-tan-01.jpg,,product listing,9:16,Simple background and full outfit visible,planned example only
